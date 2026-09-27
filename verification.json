@@ -1,0 +1,22 @@
+{
+  "secretAndTrackingScan": "pass",
+  "views": [
+    {
+      "width": 390,
+      "images": 131,
+      "brokenImages": 0,
+      "externalRequests": 0,
+      "textEqualsOriginal": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1440,
+      "images": 131,
+      "brokenImages": 0,
+      "externalRequests": 0,
+      "textEqualsOriginal": true,
+      "horizontalOverflow": false
+    }
+  ],
+  "noCheckoutOrTrackingScripts": true
+}
